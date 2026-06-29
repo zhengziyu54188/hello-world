@@ -6,4 +6,4 @@ for i in range(a):
     print(i)
     sum+=i
 print(sum)
-print('sb')
+print('oh yes im cuming')
