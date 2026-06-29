@@ -6,3 +6,4 @@ for i in range(a):
 print(sum)
 print('we are done,yeah!!!')
 print('your mother died')
+print('miku ni qian wo shiwang meidao')
