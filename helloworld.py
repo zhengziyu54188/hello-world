@@ -5,4 +5,4 @@ for i in range(a):
     sum+=i**2
 print(sum)
 print('we are done,yeah!!!')
-print('say words politely')
+print('your mother died')
