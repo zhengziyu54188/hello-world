@@ -4,4 +4,3 @@ sum = 0
 for i in range(a):
     sum+=i**2
 print(sum)
-print('wait to be continued')
